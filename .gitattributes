@@ -1,0 +1,6 @@
+# すべてのファイルの改行コードを自動判定
+* text=auto
+
+# Python関連やテキストファイルはLFに固定（推奨）
+*.txt text eol=lf
+*.py text eol=lf

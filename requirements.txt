@@ -1,0 +1,34 @@
+#basic
+numpy==1.26.0
+pandas==2.2.0
+PyYAML==6.0.1
+
+# jupyter 
+jupyter==1.0.0
+
+# graph
+matplotlib==3.8.0
+seaborn==0.13.0
+
+# kabu
+yfinance==0.2.52
+
+# model
+scikit-learn==1.4.0
+lightgbm==4.3.0
+statsmodels==0.14.4
+prophet==1.1.6
+xgboost==2.1.3
+
+# SQL
+psycopg2-binary==2.9.10
+SQLAlchemy==2.0.36
+
+# Test framework
+pytest==8.3.4
+
+# Type Check Tools
+mypy==1.14.1
+black==24.10.0
+flake8==7.1.1
+isort==5.13.2
